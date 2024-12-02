@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "草稿箱",
+  "usingComponents": {
+    "uv-button": "/node-modules/@climblee/uv-ui/components/uv-button/uv-button",
+    "uv-input": "/node-modules/@climblee/uv-ui/components/uv-input/uv-input",
+    "my-planlist": "/components/my-components/my-planlist",
+    "uv-text": "/node-modules/@climblee/uv-ui/components/uv-text/uv-text"
+  }
+}

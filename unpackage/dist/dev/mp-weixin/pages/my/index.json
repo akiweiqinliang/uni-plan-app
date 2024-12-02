@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "我的",
+  "usingComponents": {
+    "uv-toast": "/node-modules/@climblee/uv-ui/components/uv-toast/uv-toast",
+    "my-authpop": "/components/my-components/my-authpop",
+    "uv-avatar": "/node-modules/@climblee/uv-ui/components/uv-avatar/uv-avatar",
+    "uv-text": "/node-modules/@climblee/uv-ui/components/uv-text/uv-text",
+    "uv-button": "/node-modules/@climblee/uv-ui/components/uv-button/uv-button",
+    "uv-grid": "/node-modules/@climblee/uv-ui/components/uv-grid/uv-grid",
+    "uv-grid-item": "/node-modules/@climblee/uv-ui/components/uv-grid-item/uv-grid-item",
+    "uv-icon": "/node-modules/@climblee/uv-ui/components/uv-icon/uv-icon"
+  }
+}

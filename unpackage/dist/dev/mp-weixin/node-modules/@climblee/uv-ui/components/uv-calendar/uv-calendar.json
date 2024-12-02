@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-popup": "/node-modules/@climblee/uv-ui/components/uv-popup/uv-popup",
+    "uv-button": "/node-modules/@climblee/uv-ui/components/uv-button/uv-button",
+    "uv-header": "/node-modules/@climblee/uv-ui/components/uv-calendar/header",
+    "uv-month": "/node-modules/@climblee/uv-ui/components/uv-calendar/month"
+  }
+}

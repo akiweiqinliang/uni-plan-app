@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "uv-transition": "/node-modules/@climblee/uv-ui/components/uv-transition/uv-transition"
+  },
+  "component": true
+}

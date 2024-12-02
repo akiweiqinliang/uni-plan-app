@@ -1,0 +1,36 @@
+.content {
+		margin: 76.92rpx 57.69rpx;
+		width: calc(100% - 115.38rpx);
+		.plan-card-warpper {
+			border-radius: 38.46rpx;
+			padding: 38.46rpx 46.15rpx 57.69rpx;
+		}
+		.top {
+			display: flex;
+			justify-content: space-between;
+			.title {
+				font-size: 34.62rpx;
+			}
+		}
+	}
+	.warpper {
+		margin-top: 57.69rpx;
+	}
+	.img-warpper{
+		display: flex;
+		justify-content: center;
+	}
+	.warpper-micro{
+		margin-top: 19.23rpx;
+	}
+	.warpper-mini {
+		margin-top: 38.46rpx;
+	}
+	
+	.warpper-large {
+		margin-top: 76.92rpx;
+	}
+	
+	.warpper-large {
+		margin-top: 76.92rpx;
+	}

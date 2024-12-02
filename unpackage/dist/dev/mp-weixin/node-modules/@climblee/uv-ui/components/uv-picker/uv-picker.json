@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "uv-popup": "/node-modules/@climblee/uv-ui/components/uv-popup/uv-popup",
+    "uv-toolbar": "/node-modules/@climblee/uv-ui/components/uv-toolbar/uv-toolbar",
+    "uv-loading-icon": "/node-modules/@climblee/uv-ui/components/uv-loading-icon/uv-loading-icon"
+  },
+  "component": true
+}

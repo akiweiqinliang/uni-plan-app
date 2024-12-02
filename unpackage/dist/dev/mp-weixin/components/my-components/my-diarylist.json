@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "uv-waterfall": "/node-modules/@climblee/uv-ui/components/uv-waterfall/uv-waterfall"
+  },
+  "component": true
+}

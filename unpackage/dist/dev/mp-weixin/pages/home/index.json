@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "my-authpop": "/components/my-components/my-authpop",
+    "uv-icon": "/node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
+    "uv-row": "/node-modules/@climblee/uv-ui/components/uv-row/uv-row",
+    "uv-text": "/node-modules/@climblee/uv-ui/components/uv-text/uv-text",
+    "uv-button": "/node-modules/@climblee/uv-ui/components/uv-button/uv-button",
+    "uv-tabs": "/node-modules/@climblee/uv-ui/components/uv-tabs/uv-tabs",
+    "my-planlist": "/components/my-components/my-planlist",
+    "uv-input": "/node-modules/@climblee/uv-ui/components/uv-input/uv-input",
+    "my-diarylist": "/components/my-components/my-diarylist"
+  }
+}

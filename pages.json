@@ -1,0 +1,100 @@
+{
+	"easycom": {
+		// "^u-(.*)": "uview-ui/components/u-$1/u-$1.vue",
+		"autoscan": true,
+		"custom": {
+			"^my-(.*)": "@/components/my-components/my-$1.vue",
+			"^uv-(.*)": "@climblee/uv-ui/components/uv-$1/uv-$1.vue"
+		}
+	},
+	"condition": {
+		"current": 0,
+		"list": [
+			{
+				"name": "我的",
+				"path": "pages/my/index"
+			},
+			{
+				"name": "新增行程",
+				"path": "pages/draftBox/create"
+			},
+			{
+				"name": "新增事件",
+				"path": "pages/draftBox/new/event"
+			}
+		]
+	},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/home/index",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		},
+		{
+			"path": "pages/travel/index",
+			"style": {
+				"navigationBarTitleText": "行程"
+			}
+		},
+		{
+			"path": "pages/draftBox/index",
+			"style": {
+				"navigationBarTitleText": "草稿箱"
+			}
+		},
+		{
+			"path": "pages/my/index",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		},
+		{
+			"path": "pages/draftBox/create",
+			"style": {
+				"navigationBarTitleText": "新建行程"
+			}
+		},
+		{
+			"path": "pages/draftBox/new/event",
+			"style": {
+				"navigationBarTitleText": "新建"
+			}
+		}
+	],
+	"tabBar": {
+		"list": [{
+				"pagePath": "pages/home/index",
+				"iconPath": "static/tab-home.png",
+				"selectedIconPath": "static/tab-home.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/travel/index",
+				"iconPath": "static/tab-home.png",
+				"selectedIconPath": "static/tab-home.png",
+				"text": "行程"
+			},
+			{
+				"pagePath": "pages/draftBox/index",
+				"iconPath": "static/tab-home.png",
+				"selectedIconPath": "static/tab-home.png",
+				"text": "草稿箱"
+			},
+			{
+				"pagePath": "pages/my/index",
+				"iconPath": "static/tab-my.png",
+				"selectedIconPath": "static/tab-my.png",
+				"text": "我的"
+			}
+		]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#ffffff",
+		"backgroundColor": "#F8F8F8"
+		// "navigationStyle": "custom"
+	},
+	"uniIdRouter": {}
+}

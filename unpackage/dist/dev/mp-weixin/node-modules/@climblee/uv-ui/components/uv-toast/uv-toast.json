@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "uv-overlay": "/node-modules/@climblee/uv-ui/components/uv-overlay/uv-overlay",
+    "uv-loading-icon": "/node-modules/@climblee/uv-ui/components/uv-loading-icon/uv-loading-icon",
+    "uv-icon": "/node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
+    "uv-gap": "/node-modules/@climblee/uv-ui/components/uv-gap/uv-gap"
+  },
+  "component": true
+}

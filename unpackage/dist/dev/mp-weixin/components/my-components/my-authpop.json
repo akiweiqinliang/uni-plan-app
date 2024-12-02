@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "uv-popup": "/node-modules/@climblee/uv-ui/components/uv-popup/uv-popup",
+    "uv-avatar": "/node-modules/@climblee/uv-ui/components/uv-avatar/uv-avatar",
+    "uv-text": "/node-modules/@climblee/uv-ui/components/uv-text/uv-text",
+    "uv-row": "/node-modules/@climblee/uv-ui/components/uv-row/uv-row",
+    "uv-col": "/node-modules/@climblee/uv-ui/components/uv-col/uv-col",
+    "uv-button": "/node-modules/@climblee/uv-ui/components/uv-button/uv-button"
+  },
+  "component": true
+}

@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "uv-swipe-action": "/node-modules/@climblee/uv-ui/components/uv-swipe-action/uv-swipe-action",
+    "uv-swipe-action-item": "/node-modules/@climblee/uv-ui/components/uv-swipe-action-item/uv-swipe-action-item"
+  },
+  "component": true
+}

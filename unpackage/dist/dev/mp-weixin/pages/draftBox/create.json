@@ -1,0 +1,17 @@
+{
+  "navigationBarTitleText": "新建行程",
+  "usingComponents": {
+    "uv-toast": "/node-modules/@climblee/uv-ui/components/uv-toast/uv-toast",
+    "uv-row": "/node-modules/@climblee/uv-ui/components/uv-row/uv-row",
+    "uv-tabs": "/node-modules/@climblee/uv-ui/components/uv-tabs/uv-tabs",
+    "uv-form": "/node-modules/@climblee/uv-ui/components/uv-form/uv-form",
+    "uv-form-item": "/node-modules/@climblee/uv-ui/components/uv-form-item/uv-form-item",
+    "uv-input": "/node-modules/@climblee/uv-ui/components/uv-input/uv-input",
+    "uv-calendar": "/node-modules/@climblee/uv-ui/components/uv-calendar/uv-calendar",
+    "my-swipelist": "/components/my-components/my-swipelist",
+    "uv-text": "/node-modules/@climblee/uv-ui/components/uv-text/uv-text",
+    "uv-icon": "/node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
+    "my-activitylist": "/components/my-components/my-activitylist",
+    "uv-button": "/node-modules/@climblee/uv-ui/components/uv-button/uv-button"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "uv-badge": "/node-modules/@climblee/uv-ui/components/uv-badge/uv-badge"
+  },
+  "component": true
+}
